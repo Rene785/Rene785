@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rene785
-- 👀 I’m interested in Game Development and Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Game Development, Web Development and really interested in XR-Development
+- 🌱 I’m currently learning C#
 - 📫 rene.greff@outlook.com
 
 <!---
